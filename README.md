@@ -13,6 +13,10 @@ Auch ein bisschen *markdown* im Unterricht. Hat noch **niemanden** geschadet :P 
 
 php 
 
-```<?php 
+<?php 
 	echo "blablalbalba";
-?>```
+?>
+
+
+
+Weiter Beispiele finden Sie in der in der index.php
